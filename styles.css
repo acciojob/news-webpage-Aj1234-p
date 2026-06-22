@@ -28,3 +28,13 @@ body{
 	margin: 5px;
 	border-radius:10px;
 }
+
+.article h3{
+	padding:10px;
+	text-align:center;
+}
+
+.article img{
+   padding:10px;
+	
+}
