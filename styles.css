@@ -34,7 +34,15 @@ body{
 	text-align:center;
 }
 
-.article img{
+.article img, p{
    padding:10px;
-	
 }
+
+ul{
+	padding:20px;
+}
+
+.pictorial-news-section{
+	text-align: center;
+}
+
